@@ -2,27 +2,26 @@
 sem4_2019
 
 
-## Print
------
-i)Intro
-ii) Basic Prints
-iii) Comments
+###### Print
 
-Variables
----------
+- i)Intro
+- ii) Basic Prints
+- iii) Comments
+
+###### Variables
+
 i)   Variable Naming
 ii)  Data Types
 
 
-Integer and strings
--------------------
-i)Int
-ii)Float
-iii)Basic Strings
+###### Integer and strings
+- i)Int
+- ii)Float
+- iii)Basic Strings
 
 
 
-Strings and Text
+###### Strings and Text
 ----------------
 i)f-string
 ii)end1, end2, .....
@@ -31,13 +30,13 @@ iv) \t, \n, etc
 v) slicing
 
 
-Prompting People
+###### Prompting People
 ----------------
 i) age = input("How old are you? ")
 
 
 
-Module
+###### Module
 ------
 i)   sys - argv
 ii)  datetime
@@ -46,14 +45,14 @@ iv)  re
 
 
 
-Loops
+###### Loops
 -----
 i) For
 ii)While
 
 
 
-Conditionals
+###### Conditionals
 ------------
 i)   if
 ii)  if-else
@@ -62,7 +61,7 @@ iv)  break, continue
 
 
 
-Combining loops and conditions
+###### Combining loops and conditions
 ------------------------------
 i)   even-odd numbers
 ii)  fizz-buzz
@@ -70,7 +69,7 @@ iii) shopping cart
 
 
 
-Function
+###### Function
 --------
 i)   Small Functions
 ii)  Passing Arguements
@@ -83,25 +82,25 @@ viii)Scope
 ix)  Shopping List
 
 
-Reading and writing files
+###### Reading and writing files
 -------------------------
 i)   Reading Files
 ii)  Writing Files
 iii) Mores Files
 
 
-Tuples and Dictionaries
+###### Tuples and Dictionaries
 ------------------------
 i)   Tuple
 ii)  Dictionary
 iii) JSON
 
 
-Class and Objects
+###### Class and Objects
 -----------------
 
 
-Nuke
+###### Nuke
 ----
 i)    Reading Documentation
 ii)   __init__.py
