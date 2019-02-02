@@ -2,32 +2,32 @@
 sem4_2019
 
 
-###### Print
+* ###### Print *
 
-- i)Intro
-- ii) Basic Prints
-- iii) Comments
+- Intro
+- Basic Prints
+- Comments
 
 ###### Variables
 
-i)   Variable Naming
-ii)  Data Types
+- Variable Naming
+- Data Types
 
 
 ###### Integer and strings
-- i)Int
-- ii)Float
-- iii)Basic Strings
+- Int
+- Float
+- Basic Strings
 
 
 
 ###### Strings and Text
-----------------
-i)f-string
-ii)end1, end2, .....
-iii)format function
-iv) \t, \n, etc
-v) slicing
+
+- f-string
+- end1, end2, .....
+- format function
+- \t, \n, etc
+- Slicing
 
 
 ###### Prompting People
