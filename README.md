@@ -1,5 +1,5 @@
 http://help.autodesk.com/cloudhelp/2017/ENU/Maya-Tech-Docs/CommandsPython/cat_Animation.html
-
+http://help.autodesk.com/cloudhelp/2017/ENU/Maya-Tech-Docs/CommandsPython/
 import maya.cmds as mc
 
 s = [i for i in range(0,10)]
