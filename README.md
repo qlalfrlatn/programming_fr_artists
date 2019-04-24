@@ -1,4 +1,18 @@
 http://help.autodesk.com/cloudhelp/2017/ENU/Maya-Tech-Docs/CommandsPython/cat_Animation.html
+
+import maya.cmds as mc
+
+s = [i for i in range(0,10)]
+
+#print(s)
+
+for rad in s:
+    #print(rad)
+    myString = "avikSphere" + str(rad)
+    mc.polySphere(name=myString, radius = 0.2 + rad/7.0)
+    mc.move(0, 0, rad, myString )
+
+
 # programming_fr_artists
 sem4_2019
 
