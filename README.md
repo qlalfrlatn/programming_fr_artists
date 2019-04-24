@@ -7,7 +7,6 @@ s = [i for i in range(0,10)]
 #print(s)
 
 for rad in s:
-    #print(rad)
     myString = "avikSphere" + str(rad)
     mc.polySphere(name=myString, radius = 0.2 + rad/7.0)
     mc.move(0, 0, rad, myString )
